@@ -19,6 +19,7 @@ function Relogio() {
       <h2>{hora.toLocaleTimeString("pt-BR")}</h2>
     </div>
   );
+  
 }
 
 export default Relogio;
