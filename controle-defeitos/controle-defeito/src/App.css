@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.container {
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-top: 0;
+  color: #555;
+}
+
+.defeito {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+
+  padding: 20px;
+  margin: 15px 0;
+}
+
+.defeito span {
+  font-size: 20px;
+}
+
+button {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+  padding: 12px 25px;
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #125ca3;
+}
