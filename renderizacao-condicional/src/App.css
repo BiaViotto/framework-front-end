@@ -1,0 +1,31 @@
+.App {
+  min-height: 100vh;
+  padding: 40px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.lista-tarefas {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.lista-tarefas h2 {
+  margin-bottom: 20px;
+}
+
+.lista-tarefas ul {
+  padding: 0;
+  list-style: none;
+}
+
+.lista-tarefas li {
+  padding: 10px;
+  margin: 8px 0;
+  background-color: #eeeeee;
+  border-radius: 5px;
+}
