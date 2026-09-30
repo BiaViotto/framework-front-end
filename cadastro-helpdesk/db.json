@@ -1,0 +1,21 @@
+{
+  "chamados": [
+    {
+      "id": "1",
+      "solicitante": "Maria Silva",
+      "setor": "Financeiro",
+      "tipo": "Software",
+      "descricao": "Planilha não abre mais",
+      "prioridade": "Alta"
+    },
+    {
+      "solicitante": "Ana Beatriz Viotto",
+      "setor": "TI",
+      "tipo": "Hardware",
+      "descricao": "O computador não está ligando.",
+      "prioridade": "Alta",
+      "id": "_YP1AYTG1Ro"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
